@@ -1,0 +1,5 @@
+la base de datos se llama laravelinva2
+usuario root
+contraseña root
+
+npm instalado
